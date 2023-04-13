@@ -1,3 +1,8 @@
+# Cookies
+
+É uma forma de manter contexto entre requisições. Utilizamos principalmente por redes sociais.
+Também usado como forma de armazenar informações sem o usuário estar logado ou ter criado uma conta ainda.
+
 # Requisitos Funcionais
 
 - [x] O usuário deve poder criar uma nova transação;
