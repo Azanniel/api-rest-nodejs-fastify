@@ -5,6 +5,11 @@ import { knex } from '../database'
 import { checkSessionIdExists } from '../middlewares/check-session-id-exists'
 
 export async function transactionsRoutes(app: FastifyInstance) {
+  // Exemplo de um middleware global por contexto
+  // app.addHook('preHandler', async (request, reply) => {
+  //   console.log(`[${request.method}] ${request.url}`)
+  // })
+
   app.get(
     '/',
     {
