@@ -16,6 +16,16 @@ Também usado como forma de armazenar informações sem o usuário estar logado 
 - [ ] Deve ser possível identificarmos o usuário entre as requisições;
 - [ ] O usuário só pode visualizar transações o qual ele criou;
 
-# Requisitos Não Funcionais
+# Sobre os testes
 
--
+- Unitários: Testam uma unidade isolada da aplicação
+- Integração: Testam a comunicação entre duas ou mais unidades da aplicação
+- E2E (Ponta a ponta): Simulam um usuário operando na nossa aplicação
+
+Para os testes E2E:
+
+No Frontend seria exatamente a ação do usuário de abrir uma página de login por exemplo e realizar
+todas as operações para se autenticar na aplicação.
+
+No backend é testado as portas de comunicação com a aplicação, desde a requisição até o banco de dados.
+Seja por meio de protocolo HTTP ou WebSockets
