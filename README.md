@@ -38,6 +38,7 @@ Além disso, é possível utilizar dos endpoints para listar todas as transaçõ
 
 Abaixo todos os exemplos de requisições usadas no projeto.
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=https%3A%2F%2Fgithub.com%2FAzanniel%2Fapi-rest-nodejs-fastify%2Fblob%2Fmain%2Finsomnia.json)
 
 ## 📋 Anotações das aulas
 
