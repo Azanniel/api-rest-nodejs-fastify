@@ -1,8 +1,12 @@
-# Folders
+# Dependencies
 node_modules
-db/app.db
-db/test.db
 
-# Files
+# Databases
+db/*.db
+
+# Build
+build
+
+# Environments
 .env
 .env.test
