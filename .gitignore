@@ -1,6 +1,8 @@
 # Folders
 node_modules
 db/app.db
+db/test.db
 
 # Files
 .env
+.env.test
