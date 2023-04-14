@@ -29,3 +29,9 @@ todas as operações para se autenticar na aplicação.
 
 No backend é testado as portas de comunicação com a aplicação, desde a requisição até o banco de dados.
 Seja por meio de protocolo HTTP ou WebSockets
+
+# Melhores opções de Deploy [14/04/2023]
+
+- [Render.com](https://render.com/)
+- [Fly.io](https://fly.io/)
+- [Railway.app](https://railway.app/)
